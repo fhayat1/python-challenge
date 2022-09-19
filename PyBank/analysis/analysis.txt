@@ -1,6 +1,8 @@
 Financial Anaylsis
 ----------------------
-total Months:(total_months)
-total:(total_profitloss)
-greatest Increase in profitsloss:  ($0)
-greatest Decrease in profitsloss:  ($999999999999999)
+total Months: 86
+total: 22564198
+average change: 262374.3953488372
+greatest Increase in profitsloss: Aug-16 ($1862002)
+greatest Decrease in profitsloss: Feb-14 ($-1825558)
+
